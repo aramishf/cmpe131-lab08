@@ -1,0 +1,17 @@
+# Don't copy local node_modules
+node_modules
+
+# Ignore npm logs
+npm-debug.log*
+*.log
+
+# Ignore Git files
+.git
+.gitignore
+
+# Ignore Docker files
+.dockerignore
+Dockerfile
+
+# Ignore env files
+.env
