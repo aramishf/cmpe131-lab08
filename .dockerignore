@@ -9,9 +9,8 @@ npm-debug.log*
 .git
 .gitignore
 
-# Ignore Docker files
+# Ignore Docker ignore file itself
 .dockerignore
-Dockerfile
 
 # Ignore env files
 .env
